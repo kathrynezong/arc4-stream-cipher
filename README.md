@@ -9,5 +9,3 @@ SystemVerilog implementation and verification files for the ARC4 stream-cipher p
 - `tb/` — RTL and post-synthesis testbenches
 - `test_vectors/` — memory initialization files and expected test data
 - `sim/` — ModelSim project and generated simulation artifacts
-
-Open `sim/task3.mpf` in ModelSim to load the project. Its source references are relative, so the repository can be cloned to any location.
